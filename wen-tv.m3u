@@ -1,1 +1,8 @@
 #EXTM3U
+#EXTM3U
+
+#EXTINF:-1 group-title="🇬🇹 Guatemala",Guatemala TV
+https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8
+
+#EXTINF:-1 group-title="🇬🇹 Guatemala",Guatevisión
+https://video.radiozona3.com:3901/stream/play.m3u8
