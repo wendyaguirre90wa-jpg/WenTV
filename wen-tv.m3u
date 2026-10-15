@@ -6,3 +6,76 @@ https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8
 
 #EXTINF:-1 group-title="🇬🇹 Guatemala",Guatevisión
 https://video.radiozona3.com:3901/stream/play.m3u8
+
+#EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://www.vertvcable.com/?vtc_download_m3u=216
+
+#EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://envivo.cncity.live/hls/envivo.m3u8
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb7d3e167b716fda9bca3f6c86f247a0d10763d5053ad73d6dab5e9626901b53d6e9a3c0e71aeb6e59bd9fef1c552708013b9a06db6201d7c606f10f71341c64ebc6e63986c04619b3dc043a77ec3e4113a15244c0700775dca94958c533b0764531fd0062527db8ec3ace0b31c68414887e348da9c060396053548f1a1bfcb02fe3bfbd08228d3edae85857902c42f98144d9cc67c3e4a9278253da2faa418de5a5d8884f9b96f736eb14eb3b07177633c9c05a9bdb52bbdfd5386cca3f78084605b1fbddac1b7cab484155f4fa8b8c64f912dc806ad43360f553ce0dc060da6faf0bf2b548edaee3dc460c68f5c20a2c7ef7b7f6c7fe3064b864acf4eddc227acec4291233a18502994a42f2daff56ede40097a22688b5651c4ab8fb27b5bcc24e6b2def30f10bc5d5e0907d634366160b855cd8fa27bb7b9a10acbfe24e461b8f33d475bdba36fca52abfb02014a53216bcc98280de411cdf610f5fe561d55a3fd0ad5ebc1dc822e393306088695fcb657db3743c8e57e4e36cd4a9dff70932b19e9616a42fe2ba1edde40da56c7c5c06b4f76c0c150c73d5e1262f2570cf41abe69bd2442433bfa383ad911e6e5374460241d2b9a7678dc780080d06cd561165763b1e824b833a884e1a566e8135fb982458c9462d24eda27f7a5f6f9dc7f8c1b1d3d857bc70dd80a9777f7b7a6baf3c08232182e3db17ad76132e2d05ce5d31039008584be69089d698866fdc952bff6b355a3093827a2b6e737d671894996ca53cb3c767c1e9a271c3fb82004a893de16d3d91d2d560fdadb1cf400195a0364d87f61c8a61c54bc954c8361dd026e819662bdb608481a0/4/1920x1080_6046040/index.m3u8
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://envivo.cncity.live/hls/envivo.m3u8
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://www.vertvcable.com/?vtc_download_m3u=221
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/pedfya71dz/out/v1/38ed60f9665245ab9182a5b34b41f769/cenc-sd.mpd
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash-sd/enc/xerdmaskki/out/v1/787fdc37902c41eda2fb8a3098dbd50d/cenc-sd.mpd
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/byvanrruxe/out/v1/33a96ef35b0b42789bb6ebd104900bae/cenc-sd.mpd
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://regionales.saohgdassregions.com/playlist/37/index.m3u8?token=ba4850933bb94711707a1162aacbcdefff8f44e1-c290f05b03ece2a04e3203b17352d789-1792115009-1792093409
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://regionales.saohgdassregions.com/playlist/28/index.m3u8?token=15f7878ac5a691f64e6d7d12885e7a6f05431a06-73be3d97bc3f406a77166b84818ca2de-1792115069-1792093469
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://regionales.saohgdassregions.com/playlist/47/index.m3u8?token=c5a3780c9afdbae3af1a010044db478ecffc474e-80f265d521736575c1aba595be739d69-1792115186-1792093586
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://regionales.saohgdassregions.com/playlist/52/index.m3u8?token=2c3c260b0a404c7de1135c244b4ce237d1bdaaf1-61484a4186942002a19775607facb4e5-1792115243-1792093643
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://deportes.ksdjugfssddeports.com/chat/cards/verified/Universo.webm
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://deportes.ksdjugfssddeports.com/chat/cards/verified/Universo.webm
+
+
+EXTINF:-1 group-title="🎬 Películas",Canal de cine
+https://regionales.saohgdassregions.com/playlist/18/index.m3u8?token=548ae90497e55cf9c9005eddfca6d6ae8619dfb1-7ea25b59c9a3619bf25e844d838fe42c-1792115479-1792093879
+
+
